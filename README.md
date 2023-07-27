@@ -1,5 +1,5 @@
 # Collision Detection System 
-This repo features the code, schematic and video demonstration of the prototype of a collision detection system. The components that where used in this project are:
+This repo features the code and schematic of the prototype of a collision detection system. The components that where used in this project are:
 * A 16x2 LCD display 
 * 1.1k ohms resistor (R1)
 * 3.9k ohms resistor (R2)
